@@ -85,3 +85,11 @@ article {
   float: right;
   width: 75%;
 }
+
+#sidebar ul li {
+  margin-bottom: 10px; /* Adjust spacing between list items */
+}
+
+#sidebar ul li i {
+  margin-right: 5px; /* Adjust spacing between icon and text */
+}

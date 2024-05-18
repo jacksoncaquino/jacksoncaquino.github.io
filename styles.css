@@ -1,6 +1,15 @@
+html {
+  font-size: 18px;
+}
+
 body {
   background-color: white;
 }
+
+h1 {
+  font-size: 1.6em;
+}
+
 h1, h2, h3 {
   color: #494E52;
   font-weight: Bold

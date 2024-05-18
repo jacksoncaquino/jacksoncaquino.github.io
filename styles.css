@@ -12,7 +12,8 @@ h1 {
 
 h1, h2, h3 {
   color: #494E52;
-  font-weight: Bold
+  font-weight: Bold;
+  margin-bottom: 0;
 }
 p {
   color: #494E52;

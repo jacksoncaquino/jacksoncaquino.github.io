@@ -11,4 +11,5 @@ p {
 .myimage {
   max-width: 175px;
   border-radius: 50%;
+  border: 1px solid;
 }

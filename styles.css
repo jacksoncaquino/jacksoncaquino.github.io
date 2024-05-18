@@ -7,3 +7,8 @@ h1 {
 p {
   color: red;
 }
+
+.myimage img {
+  max-width: 175 px;
+  border-radius;
+}

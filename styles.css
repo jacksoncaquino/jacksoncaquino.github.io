@@ -37,6 +37,7 @@ p {
 }
 
 nav ul {
+  margin-left: 23%;
   list-style-type: none;
   padding-left: 0;
 }

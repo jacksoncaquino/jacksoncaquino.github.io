@@ -15,7 +15,7 @@ h1, h2, h3 {
   font-weight: Bold;
   margin-bottom: 0;
 }
-p {
+p, li, a, article {
   color: #494E52;
 }
 

@@ -1,11 +1,12 @@
 body {
-  background-color: powderblue;
+  background-color: white;
 }
 h1 {
-  color: blue;
+  color: #494E52;
+  font-weight: Bold
 }
 p {
-  color: red;
+  color: #494E52;
 }
 
 .myimage {

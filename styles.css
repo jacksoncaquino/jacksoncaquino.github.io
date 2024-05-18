@@ -45,3 +45,7 @@ nav ul {
 ul li a {
   text-decoration: none;
 }
+
+article {
+  float: right;
+}

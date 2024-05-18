@@ -35,8 +35,8 @@ nav ul {
   width:20%;
   float:left;
   margin-right:2%;
-  position: sticky;
-  top: 2em;
+  position: fixed;
+  top: 4em;
 }
 
 #sidebar ul {

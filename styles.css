@@ -31,6 +31,12 @@ nav ul {
   list-style-type: none;
 }
 
+#sidebar {
+  width:15%;
+  float:left;
+  margin-right:2%;
+}
+
 #sidebar ul {
   list-style-type: none;
 }

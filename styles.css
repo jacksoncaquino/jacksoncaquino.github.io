@@ -30,6 +30,11 @@ p {
 nav ul {
   list-style-type: none;
 }
+
+#sidebar ul {
+  list-style-type: none;
+}
+
 ul li a {
   text-decoration: none;
 }

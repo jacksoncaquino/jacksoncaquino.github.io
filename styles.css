@@ -43,7 +43,8 @@ nav ul {
 
 nav {
   max-width: 925px;
-  
+  margin-left: auto;
+  margin-right: auto;
 }
 
 nav ul li {
